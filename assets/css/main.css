@@ -1,0 +1,1236 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.overview-con {
+    width: 100%
+}
+
+.overview-con .f12 {
+    font-size: .046875rem
+}
+
+.overview-con .f14 {
+    font-size: .054688rem
+}
+
+.overview-con .f16 {
+    font-size: .0625rem
+}
+
+.overview-con .f18 {
+    font-size: .070313rem
+}
+
+.overview-con .f20 {
+    font-size: .078125rem
+}
+
+.overview-con .f22 {
+    font-size: .085938rem
+}
+
+.overview-con .f24 {
+    font-size: .09375rem
+}
+
+.overview-con .f26 {
+    font-size: .101563rem
+}
+
+.overview-con .f28 {
+    font-size: .109375rem
+}
+
+.overview-con .f30 {
+    font-size: .117188rem
+}
+
+.overview-con .f32 {
+    font-size: .125rem
+}
+
+.overview-con .f34 {
+    font-size: .132813rem
+}
+
+.overview-con .f36 {
+    font-size: .140625rem
+}
+
+.overview-con .f38 {
+    font-size: .148438rem
+}
+
+.overview-con .f40 {
+    font-size: .15625rem
+}
+
+.overview-con .f42 {
+    font-size: .164063rem
+}
+
+.overview-con .f44 {
+    font-size: .171875rem
+}
+
+.overview-con .f46 {
+    font-size: .179688rem
+}
+
+.overview-con .f48 {
+    font-size: .1875rem
+}
+
+.overview-con .f50 {
+    font-size: .195313rem
+}
+
+.overview-con .f52 {
+    font-size: .203125rem
+}
+
+.overview-con .f54 {
+    font-size: .210938rem
+}
+
+.overview-con .f56 {
+    font-size: .21875rem
+}
+
+.overview-con .f58 {
+    font-size: .226563rem
+}
+
+.overview-con .f60 {
+    font-size: .234375rem
+}
+
+.overview-con .f64 {
+    font-size: .25rem
+}
+
+.overview-con .f66 {
+    font-size: .257813rem
+}
+
+.overview-con .f68 {
+    font-size: .265625rem
+}
+
+.overview-con .f70 {
+    font-size: .273438rem
+}
+
+.overview-con .f72 {
+    font-size: .28125rem
+}
+
+.overview-con .f76 {
+    font-size: .296875rem
+}
+
+.overview-con .f78 {
+    font-size: .304688rem
+}
+
+.overview-con .f80 {
+    font-size: .3125rem
+}
+
+.overview-con .f82 {
+    font-size: .320313rem
+}
+
+.overview-con .f86 {
+    font-size: .335938rem
+}
+
+.overview-con .f88 {
+    font-size: .34375rem
+}
+
+.overview-con .f90 {
+    font-size: .351563rem
+}
+
+.overview-con .f98 {
+    font-size: .382813rem
+}
+
+.overview-con .f100 {
+    font-size: .390625rem
+}
+
+.overview-con .f106 {
+    font-size: .414063rem
+}
+
+.overview-con .f108 {
+    font-size: .421875rem
+}
+
+.overview-con .f110 {
+    font-size: .429688rem
+}
+
+.overview-con .f114 {
+    font-size: .445313rem
+}
+
+.overview-con .f116 {
+    font-size: .453125rem
+}
+
+.overview-con .f120 {
+    font-size: .46875rem
+}
+
+.overview-con .f128 {
+    font-size: .5rem
+}
+
+.overview-con .f130 {
+    font-size: .507813rem
+}
+
+.overview-con .f138 {
+    font-size: .539063rem
+}
+
+.overview-con .f140 {
+    font-size: .546875rem
+}
+
+.overview-con .f148 {
+    font-size: .578125rem
+}
+
+.overview-con .f150 {
+    font-size: .585938rem
+}
+
+.overview-con .f160 {
+    font-size: .625rem
+}
+
+.overview-con .f200 {
+    font-size: .78125rem
+}
+
+.overview-con .white {
+    color: #fff
+}
+
+.overview-con .black {
+    color: #000
+}
+
+.overview-con .c62 {
+    color: #626262
+}
+
+.overview-con .cf1 {
+    color: #1f1f1f
+}
+
+.overview-con .mt-36 {
+    margin-top: .140625rem
+}
+
+.overview-con .mt-50 {
+    margin-top: .195313rem
+}
+
+.overview-con .mt-90 {
+    margin-top: .351563rem
+}
+
+.overview-con .mt-60 {
+    margin-top: .234375rem
+}
+
+.overview-con .mt-40 {
+    margin-top: .15625rem
+}
+
+.overview-con .f60 {
+    line-height: .28125rem
+}
+
+.overview-con .f30 {
+    line-height: .15625rem
+}
+
+.overview-con .f24 {
+    line-height: .125rem
+}
+
+.overview-con .cb3 {
+    color: #b3b3b3
+}
+
+.overview-con .line-border {
+    border-bottom: .007813rem solid #626262;
+    box-sizing: border-box;
+    padding: 0 .195313rem .078125rem
+}
+
+.overview-con .section {
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    line-height: 1.2;
+    margin-bottom: -1px;
+    min-width: 4.789063rem;
+    overflow: hidden;
+    position: relative
+}
+
+.hairlines .overview-con .section {
+    margin-bottom: -.5px
+}
+
+.overview-con .section-01 {
+    display: flex;
+    flex-direction: column;
+    height: 5.800781rem;
+    padding: 1.5625rem 0 0 .78125rem
+}
+
+.overview-con .section-01>.xm-text {
+    width: 3.203125rem
+}
+
+.overview-con .section-01 .f72 {
+    line-height: .351563rem
+}
+
+.overview-con .section-01 .f48 {
+    line-height: .3125rem;
+    margin-top: .195313rem
+}
+
+.overview-con .section-01 .price {
+    margin-top: .585938rem
+}
+
+.overview-con .section-02 {
+    background-color: #fff;
+    padding: .507813rem 1.097656rem 0 1.027344rem
+}
+
+.overview-con .section-02 .feature-list {
+    display: flex;
+    flex-wrap: wrap
+}
+
+.overview-con .section-02 .feature-item {
+    align-items: center;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    min-height: 2rem;
+    text-align: center;
+    width: 50%
+}
+
+.overview-con .section-02 .feature-item .image {
+    height: .75rem;
+    width: .75rem
+}
+
+.overview-con .section-02 .feature-item .f30 {
+    line-height: .191406rem;
+    margin-top: .273438rem
+}
+
+.overview-con .section-02 .feature-item .f24 {
+    line-height: .160156rem;
+    margin-top: .078125rem
+}
+
+.overview-con .section-02 .feature-item>.xm-text {
+    width: 2.574219rem
+}
+
+.overview-con .section-02 .feature-item:first-child,
+.overview-con .section-02 .feature-item:nth-child(2) {
+    border-bottom: .011719rem solid rgba(169, 169, 169, .87);
+    padding-top: .113281rem
+}
+
+.overview-con .section-02 .feature-item:nth-child(3),
+.overview-con .section-02 .feature-item:nth-child(4) {
+    padding-top: .566406rem
+}
+
+.overview-con .section-02 .feature-item:first-child,
+.overview-con .section-02 .feature-item:nth-child(3) {
+    border-right: .011719rem solid rgba(169, 169, 169, .87)
+}
+
+.overview-con .section-03 {
+    align-items: center;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: .585938rem 0;
+    text-align: center
+}
+
+.overview-con .section-03>.f60 {
+    line-height: .28125rem;
+    width: 5.820313rem
+}
+
+.overview-con .section-03>.f30 {
+    margin-top: .390625rem;
+    min-width: 5.355469rem
+}
+
+.overview-con .section-03 .f30 {
+    line-height: .144531rem
+}
+
+.overview-con .section-03 .mt-90 {
+    margin-top: .351563rem
+}
+
+.overview-con .section-03 .step-list {
+    display: flex;
+    justify-content: center;
+    margin-top: .390625rem
+}
+
+.overview-con .section-03 .step {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 2.148438rem
+}
+
+.overview-con .section-03 .step:nth-child(2) {
+    margin: 0 .351563rem
+}
+
+.overview-con .section-03 .step .image {
+    height: .984375rem;
+    width: .984375rem
+}
+
+.overview-con .section-03 .step .f30 {
+    color: #3c404c;
+    margin-top: .234375rem
+}
+
+.overview-con .section-03 .text-list {
+    display: flex;
+    justify-content: center;
+    margin-top: .351563rem
+}
+
+.overview-con .section-03 .text-list .f30 {
+    margin-right: .585938rem;
+    min-width: 1.394531rem
+}
+
+.overview-con .section-03 .text-list .f30:last-child {
+    margin-right: unset
+}
+
+.overview-con .section-04 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 6.324219rem;
+    padding-top: .585938rem
+}
+
+.overview-con .section-04 .desc,
+.overview-con .section-04 .title {
+    text-align: center;
+    width: 5.820313rem
+}
+
+.overview-con .section-04 .title {
+    line-height: .28125rem
+}
+
+.overview-con .section-04 .desc {
+    line-height: .15625rem;
+    margin-top: .15625rem
+}
+
+.overview-con .section-04 .pos {
+    position: absolute
+}
+
+.overview-con .section-04 .pos1 {
+    bottom: 1.875rem;
+    left: 3.042969rem;
+    min-width: 1.539063rem;
+    text-align: center
+}
+
+.overview-con .section-04 .pos2 {
+    bottom: 1.367188rem;
+    left: 3.042969rem;
+    min-width: 1.539063rem;
+    text-align: center
+}
+
+.overview-con .section-04 .pos3 {
+    left: 6.796875rem;
+    min-width: 1.539063rem;
+    top: 3.429688rem
+}
+
+.overview-con .section-04 .pos4 {
+    left: 6.796875rem;
+    min-width: 1.539063rem;
+    top: 5.335938rem
+}
+
+.overview-con .section-04 .pos5 {
+    left: .988281rem;
+    min-width: 1.539063rem;
+    top: 5.140625rem
+}
+
+.overview-con .section-04 .pos6 {
+    color: #9297a7;
+    left: .78125rem;
+    min-width: 3.90625rem;
+    top: 5.59375rem
+}
+
+.overview-con .section-05 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 5.15625rem;
+    padding-top: .601563rem
+}
+
+.overview-con .section-05>.xm-text {
+    text-align: center;
+    width: 6.835938rem
+}
+
+.overview-con .section-05 .f60 {
+    line-height: .28125rem
+}
+
+.overview-con .section-05 .f30 {
+    line-height: .15625rem
+}
+
+.overview-con .section-05 .feat-list {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 4.847656rem
+}
+
+.overview-con .section-05 .feat-item {
+    display: flex;
+    justify-content: center;
+    margin: 0 .820313rem;
+    width: 2.609375rem
+}
+
+.overview-con .section-05 .f36 {
+    color: #3c404d;
+    line-height: 1;
+    margin-left: .078125rem
+}
+
+.overview-con .section-05 .image {
+    height: .109375rem;
+    width: .125rem
+}
+
+.overview-con .section-06 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 6.757813rem;
+    padding-top: .390625rem;
+    text-align: center
+}
+
+.overview-con .section-06>.xm-text {
+    width: 7.59375rem
+}
+
+.overview-con .section-07 {
+    align-items: center;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: .585938rem 0
+}
+
+.overview-con .section-07 .text-list {
+    align-items: center;
+    display: flex;
+    margin-top: .296875rem
+}
+
+.overview-con .section-07 .text {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 2.078125rem
+}
+
+.overview-con .section-07 .text:nth-child(2) {
+    margin: 0 .625rem
+}
+
+.overview-con .section-07 .line {
+    background-color: #626262;
+    height: .007813rem;
+    margin-top: .085938rem;
+    width: 1.558594rem
+}
+
+.overview-con .section-08 {
+    height: 6.199219rem
+}
+
+.overview-con .section-08 .text-container {
+    left: 5.570313rem;
+    position: absolute;
+    top: 2.34375rem;
+    width: 4.023438rem
+}
+
+.overview-con .section-08 .f30 {
+    margin-top: .136719rem
+}
+
+.overview-con .section-08 .green {
+    color: #45ffd0;
+    left: .589844rem
+}
+
+.overview-con .section-08 .green,
+.overview-con .section-08 .orige {
+    font-size: .328125rem;
+    position: absolute;
+    text-align: center;
+    top: 4.316406rem;
+    width: 1.40625rem
+}
+
+.overview-con .section-08 .orige {
+    color: #ff3e02;
+    left: 3.757813rem
+}
+
+.overview-con .section-09 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 6.0625rem;
+    padding-top: .585938rem;
+    text-align: center
+}
+
+.overview-con .section-09>.xm-text {
+    width: 7.59375rem
+}
+
+.overview-con .section-09 .f30 {
+    margin-top: .1875rem
+}
+
+.overview-con .section-09 .f24 {
+    margin-top: .320313rem;
+    opacity: .5
+}
+
+.overview-con .section-10 {
+    align-items: center;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: .585938rem 0
+}
+
+.overview-con .section-10 .text-list {
+    align-items: center;
+    display: flex;
+    margin-top: .296875rem
+}
+
+.overview-con .section-10 .text {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0 .214844rem;
+    text-align: center;
+    width: 402
+}
+
+.overview-con .section-10 .line {
+    background-color: #626262;
+    height: .007813rem;
+    margin-top: .085938rem;
+    width: 1.390625rem
+}
+
+.overview-con .section-11 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 6.53125rem;
+    padding-top: .585938rem;
+    text-align: center
+}
+
+.overview-con .section-11>.xm-text {
+    width: 7.59375rem
+}
+
+.overview-con .section-12 {
+    height: 6.523438rem
+}
+
+.overview-con .section-12 .text-container {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: .753906rem;
+    position: absolute;
+    top: 1.445313rem;
+    width: 3.90625rem
+}
+
+.overview-con .section-12 .text-container>.xm-text {
+    width: 100%
+}
+
+.overview-con .section-12 .blue+.line {
+    background-blend-mode: normal, normal;
+    background-image: linear-gradient(90deg, #0c79ff, #19a7fc), linear-gradient(#fff, #fff);
+    border-radius: .046875rem;
+    height: .09375rem;
+    margin-top: .039063rem;
+    width: 1.617188rem
+}
+
+.overview-con .section-12 .gray+.line {
+    background-blend-mode: normal, normal;
+    background-image: linear-gradient(90deg, #8b8d79, #acae9a), linear-gradient(#fff, #fff);
+    border-radius: .046875rem;
+    height: .101563rem;
+    margin-top: .039063rem;
+    width: 3.144531rem
+}
+
+.overview-con .section-12 .pos {
+    bottom: 3.789063rem;
+    position: absolute;
+    text-align: center
+}
+
+.overview-con .section-12 .pos1 {
+    left: 5.792969rem;
+    width: .789063rem
+}
+
+.overview-con .section-12 .pos2 {
+    left: 6.621094rem;
+    width: .542969rem
+}
+
+.overview-con .section-12 .pos3 {
+    left: 7.199219rem;
+    width: .429688rem
+}
+
+.overview-con .section-12 .pos4 {
+    left: 7.683594rem;
+    width: .429688rem
+}
+
+.overview-con .section-12 .card-list {
+    display: flex;
+    left: 5.382813rem;
+    position: absolute;
+    top: 4.46875rem
+}
+
+.overview-con .section-12 .card-item {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-right: .46875rem;
+    text-align: center;
+    width: .78125rem
+}
+
+.overview-con .section-12 .card-item .image {
+    height: .328125rem;
+    width: .246094rem
+}
+
+.overview-con .section-12 .card-item .f30 {
+    margin-top: .15625rem
+}
+
+.overview-con .section-note {
+    align-items: center;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: .390625rem 0;
+    text-align: left
+}
+
+.overview-con .section-note>.xm-text {
+    width: 8.394531rem
+}
+
+.overview-con .section-note .f30 {
+    color: #3b3b3b;
+    line-height: .253906rem;
+    opacity: .9
+}
+
+.overview-con .section-note .f18 {
+    line-height: .125rem;
+    opacity: .5
+}
+
+.edit-section {
+    color: #424242;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    padding: 0 30px
+}
+
+.xm-price--origin {
+    font-size: .6em;
+    text-decoration: line-through
+}
+
+.xm-price .xm-price__from,
+.xm-price .xm-price__label,
+.xm-price .xm-price__sNum {
+    margin: 0 3px
+}
+
+.xm-price span:first-child {
+    margin-left: 0
+}
+
+.xm-price span:last-child {
+    margin-right: 0
+}
+
+.xm-price .xm-price--sale .xm-price__label,
+.xm-price .xm-price--sale .xm-price__sNum {
+    margin: 0 3px
+}
+
+.xm-price .xm-price--sale span:first-child {
+    margin-left: 0
+}
+
+.xm-price .xm-price--sale span:last-child {
+    margin-right: 0
+}
+
+.text_container--title {
+    color: #424242;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    margin: 20px 0 12px
+}
+
+.text_container--font {
+    align-items: center;
+    display: flex;
+    margin-bottom: 20px
+}
+
+.text_container--pos {
+    display: flex;
+    justify-content: space-between
+}
+
+.text_container .img-label {
+    background-image: url(https://cnbj1.fds.api.xiaomi.com/mi-com-product/assets/icon.png);
+    background-position: -76px 0;
+    display: inline-block;
+    height: 22px;
+    margin-right: 20px;
+    vertical-align: middle;
+    width: 26px
+}
+
+.text_container .text-label {
+    color: #999;
+    font-size: 14px;
+    line-height: 20px;
+    margin-right: 20px
+}
+
+.text_container .btn-container {
+    margin-top: 20px;
+    text-align: right
+}
+
+.text_container .eye {
+    background-image: url(https://cnbj1.fds.api.xiaomi.com/mi-com-product/assets/icon.png);
+    background-position: -74px -22px;
+    cursor: pointer;
+    display: inline-block;
+    height: 30px;
+    margin-left: 160px;
+    width: 24px
+}
+
+.text_container .eye.open {
+    background-position: -75px -47px
+}
+
+.text_container .tips {
+    color: #c9c9c9;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 10px 0 0 45px
+}
+
+.text_container .pos-item {
+    font-size: 14px
+}
+
+.edit-input {
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    height: 40px;
+    text-align: center;
+    width: 110px
+}
+
+
+.xm-btn {
+    background: #1890ff;
+    border-radius: 6px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    vertical-align: middle
+}
+
+.xm-btn.gray {
+    background: #cdcdcd
+}
+
+.xm-btn__text {
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: bottom;
+    width: 100%
+}
+
+.xm-btn-primary {
+    background: #1890ff;
+    color: #fff
+}
+
+.xm-btn-normal {
+    background: #cdcdcd;
+    color: #fff
+}
+
+.xm-btn-link {
+    background: #cdcdcd;
+    color: #424242
+}
+
+.xm-btn-link:hover {
+    color: #1890ff
+}
+
+.xm-btn-line {
+    background: #fff;
+    border: 1px solid #1890ff;
+    color: #424242
+}
+
+.xm-btn-small {
+    font-size: 14px;
+    height: 32px;
+    line-height: 32px;
+    width: 88px
+}
+
+.xm-btn-middle {
+    font-size: 16px;
+    height: 40px;
+    line-height: 40px;
+    width: 160px
+}
+
+.xm-btn-large {
+    font-size: 16px;
+    height: 48px;
+    line-height: 48px;
+    width: 240px
+}
+
+@keyframes loader {
+    0% {
+        opacity: .2;
+        transform: scaleY(.5)
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1)
+    }
+}
+
+
+
+.xm-text {
+    display: inline-block;
+    white-space: break-spaces
+}
+
+
+.section {
+    background-repeat: no-repeat;
+    margin-bottom: -1PX
+}
+
+.eco_name-88 {
+    font-size: .34375rem;
+    line-height: .429688rem
+}
+
+.eco_name-80 {
+    font-size: .3125rem;
+    line-height: .390625rem
+}
+
+.eco_name-72 {
+    font-size: .34375rem;
+    line-height: .351563rem
+}
+
+.eco_slogan {
+    font-size: .1875rem;
+    line-height: .234375rem
+}
+
+.eco_ksp {
+    font-size: .117188rem;
+    line-height: .171875rem
+}
+
+.eco_name-radius {
+    border-radius: .015625rem;
+    font-size: .15625rem;
+    line-height: .226563rem
+}
+
+.eco_ksp-title {
+    font-size: .125rem;
+    line-height: .15625rem
+}
+
+.eco_ksp-text {
+    font-size: .09375rem;
+    line-height: .125rem
+}
+
+.eco_ksp-item {
+    padding: .117188rem .136719rem
+}
+
+.eco_title {
+    font-size: .234375rem;
+    line-height: .28125rem
+}
+
+.eco_text {
+    font-size: .117188rem;
+    line-height: .15625rem
+}
+
+.eco_note {
+    font-size: .09375rem;
+    line-height: .109375rem
+}
+
+.eco_number {
+    font-size: .429688rem;
+    line-height: .429688rem
+}
+
+.eco_note-text {
+    font-size: .09375rem;
+    line-height: .125rem
+}
+
+.eco_specs-title {
+    font-size: .109375rem;
+    line-height: .140625rem
+}
+
+.eco_specs-label,
+.eco_specs-value {
+    font-size: .070313rem;
+    line-height: .101563rem
+}
+
+.price-common {
+    font-family: CamphorPro-Light;
+    font-size: .257813rem
+}
+
+.price-common .xm-price__from {
+    font-size: 60%;
+    margin: 0 .039063rem
+}
+
+.price-common .xm-price__sNum {
+    font-family: CamphorPro-Bold;
+    margin: 0
+}
+
+.price-common .xm-price__label {
+    font-size: 60%;
+    margin: 0
+}
+
+.price-common .xm-price--current .xm-price__label {
+    font-family: CamphorPro-Bold;
+    font-size: 100%
+}
+
+.price-common .xm-price--sale {
+    margin-right: .039063rem
+}
+
+.price-common .xm-price--sale .xm-price__label,
+.price-common .xm-price--sale .xm-price__sNum {
+    margin: 0
+}
+
+.price-common .xm-price--origin .xm-price__label {
+    font-size: 100%
+}
+
+.price-common .xm-price--origin .xm-price__mNum {
+    margin: 0
+}
+
+
+@font-face {
+    font-family: CamphorPro-Light;
+    src: url(//i01.appmifile.com/webfile/globalimg/products/pc/mi-note-10/CamphorPro-Light.woff) format("woff")
+}
+
+@font-face {
+    font-family: CamphorPro-Regular;
+    src: url(//i01.appmifile.com/webfile/globalimg/products/pc/mi-note-10/CamphorPro-Regular.woff) format("woff")
+}
+
+@font-face {
+    font-family: CamphorPro-Bold;
+    font-weight: 700;
+    src: url(//i01.appmifile.com/webfile/globalimg/products/pc/mi-note-10/CamphorPro-Bold.woff) format("woff")
+}
+
+@font-face {
+    font-family: CamphorPro-Thin;
+    src: url(//i01.appmifile.com/webfile/globalimg/products/pc/mi-note-10/CamphorPro-Thin.woff) format("woff"),
+    url(//i01.appmifile.com/webfile/globalimg/products/pc/mi-note-10/CamphorPro-Thin.svg#CamphorPro-Thin) format("svg")
+}
+
+@font-face {
+    font-family: Camphor-Heavy;
+    font-weight: 900;
+    src: url(//i01.appmifile.com/webfile/globalimg/products/pc/mi-note-10/CamphorPro-Heavy.woff) format("woff"), 
+    url(//i01.appmifile.com/webfile/globalimg/products/pc/mi-note-10/CamphorPro-Heavy.svg#CamphorPro-Heavy) format("svg")
+}
+
+@font-face {
+    font-family: CamphorPro-Medium;
+    src: url(//i01.appmifile.com/webfile/globalimg/products/pc/mi-note-10/CamphorPro-Medium.woff) format("woff"), 
+    url(//i01.appmifile.com/webfile/globalimg/products/pc/mi-note-10/CamphorPro-Medium.svg#CamphorPro-Medium) format("svg")
+}
+
+@font-face {
+    font-family: ProximaNova;
+    font-style: normal;
+    font-weight: 100;
+    src: url(//s01.appmifile.com/css/fonts/proximanova/proxima-nova-thin.woff?p=) format("woff")
+}
+
+@font-face {
+    font-family: ProximaNova;
+    font-style: normal;
+    font-weight: 300;
+    src: url(//s01.appmifile.com/css/fonts/proximanova/proxima-nova-light.woff?p=) format("woff")
+}
+
+@font-face {
+    font-family: ProximaNova;
+    font-style: normal;
+    font-weight: 400;
+    src: url(//s01.appmifile.com/css/fonts/proximanova/proxima-nova-regular.woff?p=) format("woff")
+}
+
+@font-face {
+    font-family: ProximaNova;
+    font-style: normal;
+    font-weight: 600;
+    src: url(//s01.appmifile.com/css/fonts/proximanova/proxima-nova-semibold.woff?p=) format("woff")
+}
+
+@font-face {
+    font-family: ProximaNova;
+    font-style: normal;
+    font-weight: 700;
+    src: url(//s01.appmifile.com/css/fonts/proximanova/proxima-nova-bold.woff?p=) format("woff")
+}
+
+@font-face {
+    font-family: ProximaNova;
+    font-style: normal;
+    font-weight: 800;
+    src: url(//s01.appmifile.com/css/fonts/proximanova/proxima-nova-extrabold.woff?p=) format("woff")
+}
+
+@font-face {
+    font-family: ProximaNova;
+    font-style: normal;
+    font-weight: 900;
+    src: url(//s01.appmifile.com/css/fonts/proximanova/proxima-nova-black.woff?p=) format("woff")
+}
+
+
+
+.f-heavy { font-family: Camphor-Heavy, sans-serif; font-weight: 900 }
+.f-regular { font-family: CamphorPro-Regular, sans-serif}
+.f-light { font-family: CamphorPro-Light, sans-serif}
+.f-bold {font-family: CamphorPro-Bold, sans-serif; font-weight: 700}
+.f-medium { font-family: CamphorPro-Medium, sans-serif}
+.f-thin {font-family: CamphorPro-Thin, sans-serif}
+.f-nova { font-family: ProximaNova, sans-serif}
