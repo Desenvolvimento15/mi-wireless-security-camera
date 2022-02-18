@@ -528,7 +528,7 @@
 
 .overview-con .section-05>.xm-text {
     text-align: center;
-    width: 6.835938rem
+    width: 8.835938rem
 }
 
 .overview-con .section-05 .f60 {
@@ -574,7 +574,8 @@
 }
 
 .overview-con .section-06>.xm-text {
-    width: 7.59375rem
+    width: 7.59375rem;
+    margin-top: 68px;
 }
 
 .overview-con .section-07 {
