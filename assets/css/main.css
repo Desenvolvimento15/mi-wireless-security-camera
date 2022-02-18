@@ -3,6 +3,18 @@
     padding: 0;
 }
 
+/*-----------------------------------------------------------------------------------*/
+
+.f-heavy { font-family: Camphor-Heavy, sans-serif; font-weight: 900 }
+.f-regular { font-family: CamphorPro-Regular, sans-serif}
+.f-light { font-family: CamphorPro-Light, sans-serif}
+.f-bold {font-family: CamphorPro-Bold, sans-serif; font-weight: 700}
+.f-medium { font-family: CamphorPro-Medium, sans-serif}
+.f-thin {font-family: CamphorPro-Thin, sans-serif}
+.f-nova { font-family: ProximaNova, sans-serif}
+
+
+
 .overview-con {
     width: 100%
 }
@@ -992,19 +1004,6 @@
     width: 240px
 }
 
-@keyframes loader {
-    0% {
-        opacity: .2;
-        transform: scaleY(.5)
-    }
-
-    to {
-        opacity: 1;
-        transform: scale(1)
-    }
-}
-
-
 
 .xm-text {
     display: inline-block;
@@ -1226,11 +1225,3 @@
 }
 
 
-
-.f-heavy { font-family: Camphor-Heavy, sans-serif; font-weight: 900 }
-.f-regular { font-family: CamphorPro-Regular, sans-serif}
-.f-light { font-family: CamphorPro-Light, sans-serif}
-.f-bold {font-family: CamphorPro-Bold, sans-serif; font-weight: 700}
-.f-medium { font-family: CamphorPro-Medium, sans-serif}
-.f-thin {font-family: CamphorPro-Thin, sans-serif}
-.f-nova { font-family: ProximaNova, sans-serif}
