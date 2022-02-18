@@ -17,7 +17,6 @@
 
 @font-face {
     font-family: CamphorPro-Bold;
-    font-weight: 700;
     src: url(./fonts/CamphorPro-Bold.woff) format("woff")
 }
 
@@ -28,7 +27,6 @@
 
 @font-face {
     font-family: Camphor-Heavy;
-    font-weight: 900;
     src: url(./fonts/CamphorPro-Heavy.woff) format("woff")
 }
 
