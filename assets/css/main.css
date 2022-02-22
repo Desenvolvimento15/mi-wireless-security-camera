@@ -84,9 +84,6 @@
     src: url(./fonts/proxima-nova-black.woff) format("woff")
 }
 
-
-
-
 .f-heavy { font-family: Camphor-Heavy, sans-serif; font-weight: 900 }
 .f-regular { font-family: CamphorPro-Regular, sans-serif}
 .f-light { font-family: CamphorPro-Light, sans-serif}
@@ -95,7 +92,7 @@
 .f-thin {font-family: CamphorPro-Thin, sans-serif}
 .f-nova { font-family: ProximaNova, sans-serif}
 
-
+/*-----------------------------------------------------------------*/
 
 .overview-con {
     width: 100%
