@@ -1218,3 +1218,7 @@
 .price-common .xm-price--origin .xm-price__mNum {
     margin: 0
 }
+
+@media screen and (max-width: 1000px){
+    .overview-con{display: none;}
+}
